@@ -1,0 +1,4 @@
+name: SavannaHole
+version: '${project.version}'
+main: net.ramuremo.savannahole.SavannaHole
+api-version: 1.8

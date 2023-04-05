@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a23efa08-4626-48e3-963a-b4147a686e08" name="SavannaServer">
+        <fileTransfer rootFolder="/home/portainer" accessType="SFTP" host="192.168.1.155" port="22" sshConfigId="e866391e-28b2-4e0f-804b-d7ce50079fb3" sshConfig="root@192.168.1.155:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
